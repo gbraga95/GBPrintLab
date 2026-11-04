@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" role="img" aria-label="GB Print Labs">
+  <defs>
+    <linearGradient id="f" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FFB347"/>
+      <stop offset="100%" stop-color="#FF6A00"/>
+    </linearGradient>
+  </defs>
+  <polygon points="24,3 43,14 43,36 24,47 5,36 5,14" fill="#0E1724" stroke="#FF6A00" stroke-width="2"/>
+  <rect x="20" y="8" width="8" height="6" rx="1" fill="#D7DEE8"/>
+  <polygon points="20,14 28,14 24,24" fill="url(#f)"/>
+  <path d="M24 24 C24 24 18 32 18 36 C18 40 30 40 30 36 C30 32 24 24 24 24 Z" fill="url(#f)"/>
+</svg>

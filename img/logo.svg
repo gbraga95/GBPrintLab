@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 220" role="img" aria-labelledby="logoTitle">
+  <title id="logoTitle">GB Print Labs</title>
+  <defs>
+    <linearGradient id="filament" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FFB347"/>
+      <stop offset="50%" stop-color="#FF6A00"/>
+      <stop offset="100%" stop-color="#E23D00"/>
+    </linearGradient>
+    <linearGradient id="metal" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#F4F7FB"/>
+      <stop offset="100%" stop-color="#9AA7B8"/>
+    </linearGradient>
+  </defs>
+  <g transform="translate(18,18)">
+    <polygon points="92,8 164,50 164,134 92,176 20,134 20,50" fill="none" stroke="#1C2A3A" stroke-width="8"/>
+    <polygon points="92,22 150,56 150,128 92,162 34,128 34,56" fill="#0E1724"/>
+    <rect x="78" y="18" width="28" height="22" rx="3" fill="url(#metal)"/>
+    <polygon points="78,40 106,40 92,78" fill="url(#filament)"/>
+    <path d="M92 78 C92 78 70 108 70 128 C70 148 114 148 114 128 C114 108 92 78 92 78 Z" fill="url(#filament)"/>
+    <circle cx="92" cy="128" r="7" fill="#0E1724"/>
+  </g>
+  <text x="214" y="108" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="72" font-weight="800" fill="#F7F4EF" letter-spacing="-2">GB</text>
+  <text x="360" y="108" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="72" font-weight="600" fill="#FF6A00" letter-spacing="-1.5">Print</text>
+  <text x="214" y="168" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="38" font-weight="700" fill="#C9D3DE" letter-spacing="10">LABS</text>
+</svg>
